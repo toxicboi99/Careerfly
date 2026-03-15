@@ -1,0 +1,33 @@
+[
+  {
+    "collegeId": "iit-delhi",
+    "topCareerPaths": ["Software Engineer", "Data Scientist", "Product Manager", "Research Scientist"],
+    "industryDistribution": [
+      { "industry": "Technology", "percentage": 45 },
+      { "industry": "Finance", "percentage": 25 },
+      { "industry": "Consulting", "percentage": 15 },
+      { "industry": "Research", "percentage": 15 }
+    ],
+    "averageSalaryByField": [
+      { "field": "Software Engineering", "salary": "₹28 LPA" },
+      { "field": "Data Science", "salary": "₹25 LPA" },
+      { "field": "Product Management", "salary": "₹30 LPA" },
+      { "field": "Research", "salary": "₹20 LPA" }
+    ]
+  },
+  {
+    "collegeId": "aiims-delhi",
+    "topCareerPaths": ["Doctor", "Medical Researcher", "Healthcare Administrator", "Public Health Specialist"],
+    "industryDistribution": [
+      { "industry": "Healthcare", "percentage": 70 },
+      { "industry": "Research", "percentage": 20 },
+      { "industry": "Public Health", "percentage": 10 }
+    ],
+    "averageSalaryByField": [
+      { "field": "Clinical Practice", "salary": "₹18 LPA" },
+      { "field": "Medical Research", "salary": "₹15 LPA" },
+      { "field": "Healthcare Administration", "salary": "₹22 LPA" }
+    ]
+  }
+]
+

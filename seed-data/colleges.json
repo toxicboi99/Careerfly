@@ -1,0 +1,78 @@
+[
+  {
+    "id": "iit-delhi",
+    "name": "Indian Institute of Technology Delhi",
+    "location": "New Delhi",
+    "type": "Engineering",
+    "ranking": 1,
+    "establishedYear": 1961,
+    "affiliation": "Autonomous",
+    "courses": ["Computer Science", "Electrical Engineering", "Mechanical Engineering", "Civil Engineering"],
+    "placementRate": 95,
+    "averagePackage": "₹25 LPA",
+    "topRecruiters": ["Google", "Microsoft", "Amazon", "Goldman Sachs"],
+    "facilities": ["Library", "Hostels", "Sports Complex", "Research Labs"],
+    "website": "https://home.iitd.ac.in/"
+  },
+  {
+    "id": "iit-bombay",
+    "name": "Indian Institute of Technology Bombay",
+    "location": "Mumbai, Maharashtra",
+    "type": "Engineering",
+    "ranking": 2,
+    "establishedYear": 1958,
+    "affiliation": "Autonomous",
+    "courses": ["Computer Science", "Electrical Engineering", "Aerospace Engineering", "Chemical Engineering"],
+    "placementRate": 94,
+    "averagePackage": "₹23 LPA",
+    "topRecruiters": ["Microsoft", "Google", "JP Morgan", "Qualcomm"],
+    "facilities": ["Central Library", "Hostels", "Sports Facilities", "Innovation Labs"],
+    "website": "https://www.iitb.ac.in/"
+  },
+  {
+    "id": "aiims-delhi",
+    "name": "All India Institute of Medical Sciences Delhi",
+    "location": "New Delhi",
+    "type": "Medical",
+    "ranking": 1,
+    "establishedYear": 1956,
+    "affiliation": "Autonomous",
+    "courses": ["MBBS", "MD", "MS", "DM", "MCh"],
+    "placementRate": 100,
+    "averagePackage": "₹15 LPA",
+    "topRecruiters": ["Apollo Hospitals", "Fortis Healthcare", "Max Healthcare", "Government Hospitals"],
+    "facilities": ["Hospital", "Library", "Hostels", "Research Centers"],
+    "website": "https://www.aiims.edu/"
+  },
+  {
+    "id": "du-delhi",
+    "name": "University of Delhi",
+    "location": "New Delhi",
+    "type": "Arts",
+    "ranking": 3,
+    "establishedYear": 1922,
+    "affiliation": "Central University",
+    "courses": ["Economics", "Political Science", "English", "History", "Psychology"],
+    "placementRate": 75,
+    "averagePackage": "₹8 LPA",
+    "topRecruiters": ["Deloitte", "EY", "KPMG", "TCS", "Infosys"],
+    "facilities": ["Central Library", "Sports Complex", "Cultural Centers", "Research Facilities"],
+    "website": "https://www.du.ac.in/"
+  },
+  {
+    "id": "iim-ahmedabad",
+    "name": "Indian Institute of Management Ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "type": "Management",
+    "ranking": 1,
+    "establishedYear": 1961,
+    "affiliation": "Autonomous",
+    "courses": ["MBA", "Executive MBA", "Fellow Programme", "Management Development"],
+    "placementRate": 100,
+    "averagePackage": "₹35 LPA",
+    "topRecruiters": ["McKinsey", "BCG", "Bain", "Goldman Sachs", "JP Morgan"],
+    "facilities": ["Library", "Hostels", "Sports Facilities", "Case Study Rooms"],
+    "website": "https://www.iima.ac.in/"
+  }
+]
+

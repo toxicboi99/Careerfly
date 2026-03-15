@@ -1,0 +1,35 @@
+[
+  {
+    "legacyId": "1",
+    "studentProfile": {
+      "interests": ["Technology", "Programming"],
+      "skills": { "Python": 4, "JavaScript": 3, "Data Analysis": 4 },
+      "education": "B.Tech Computer Science",
+      "college": "IIT Delhi"
+    },
+    "careerOutcome": {
+      "chosenCareer": "Software Engineer",
+      "satisfaction": 9,
+      "timeToJob": 3,
+      "salary": "₹18 LPA"
+    },
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "legacyId": "2",
+    "studentProfile": {
+      "interests": ["Healthcare", "Research"],
+      "skills": { "Biology": 5, "Research": 4, "Communication": 3 },
+      "education": "MBBS",
+      "college": "AIIMS Delhi"
+    },
+    "careerOutcome": {
+      "chosenCareer": "Medical Researcher",
+      "satisfaction": 8,
+      "timeToJob": 6,
+      "salary": "₹12 LPA"
+    },
+    "timestamp": "2024-01-14T14:20:00Z"
+  }
+]
+

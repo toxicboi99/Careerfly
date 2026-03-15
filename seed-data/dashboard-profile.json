@@ -1,0 +1,71 @@
+{
+  "name": "Priya Sharma",
+  "completionDate": "2024-01-15",
+  "overallMatch": 92,
+  "topCareerPaths": [
+    {
+      "title": "AI/ML Engineer",
+      "match": 95,
+      "description": "Design and develop machine learning models and AI systems",
+      "skills": ["Python", "TensorFlow", "Data Analysis", "Mathematics"],
+      "averageSalary": "₹12-25 LPA",
+      "growth": "High",
+      "demandLevel": "Very High",
+      "timeToEntry": "6-12 months",
+      "learningPath": [
+        "Complete Python fundamentals",
+        "Learn machine learning basics",
+        "Build portfolio projects",
+        "Get certified in cloud platforms"
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "match": 88,
+      "description": "Extract insights from data to drive business decisions",
+      "skills": ["Python", "Statistics", "SQL", "Data Visualization"],
+      "averageSalary": "₹8-20 LPA",
+      "growth": "High",
+      "demandLevel": "High",
+      "timeToEntry": "4-8 months",
+      "learningPath": [
+        "Master statistical analysis",
+        "Learn data visualization tools",
+        "Practice with real datasets",
+        "Build data science portfolio"
+      ]
+    },
+    {
+      "title": "Product Manager",
+      "match": 82,
+      "description": "Lead product development and strategy",
+      "skills": ["Leadership", "Analytics", "Communication", "Strategy"],
+      "averageSalary": "₹15-35 LPA",
+      "growth": "Very High",
+      "demandLevel": "High",
+      "timeToEntry": "8-18 months",
+      "learningPath": [
+        "Develop business acumen",
+        "Learn product management frameworks",
+        "Build leadership skills",
+        "Get PM certification"
+      ]
+    }
+  ],
+  "skillGaps": [
+    { "skill": "Cloud Computing", "currentLevel": 2, "requiredLevel": 4, "priority": "High" },
+    { "skill": "Advanced Statistics", "currentLevel": 3, "requiredLevel": 5, "priority": "Medium" },
+    { "skill": "Project Management", "currentLevel": 2, "requiredLevel": 4, "priority": "Medium" }
+  ],
+  "recommendedCourses": [
+    { "title": "AWS Machine Learning Specialty", "provider": "Amazon Web Services", "duration": "40 hours", "rating": 4.8, "price": "₹15,000" },
+    { "title": "Advanced Statistics for Data Science", "provider": "Coursera", "duration": "60 hours", "rating": 4.7, "price": "₹8,000" },
+    { "title": "Product Management Fundamentals", "provider": "Udemy", "duration": "25 hours", "rating": 4.6, "price": "₹3,500" }
+  ],
+  "industryInsights": [
+    { "title": "AI/ML Job Market Growing 40% YoY", "description": "Demand for AI professionals continues to surge across industries", "date": "2024-01-10" },
+    { "title": "Remote Work Opportunities Increasing", "description": "70% of tech companies now offer remote positions", "date": "2024-01-08" },
+    { "title": "New Certification Programs Launched", "description": "Google and Microsoft announce new AI certification tracks", "date": "2024-01-05" }
+  ]
+}
+
